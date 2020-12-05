@@ -8,13 +8,13 @@
     "build": "next build renderer && next export renderer",
     "dist": "yarn build && electron-builder --dir"
   },
-  "repository": "https://github.com/parigu2/genshinSimulator.git",
+  "repository": "parigu2/genshinSimulator",
   "keywords": [
     "Genshin Impact",
     "Genshin Simulator",
     "DevCarp"
   ],
-  "author": "GitHub",
+  "author": "DevCarp",
   "license": "CC0-1.0",
   "devDependencies": {
     "bundle": "^2.0.1",
