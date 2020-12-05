@@ -27,7 +27,8 @@
   "dependencies": {
     "app-root-path": "^2.0.1",
     "electron-is-dev": "^1.2.0",
-    "electron-next": "^3.1.5"
+    "electron-next": "^3.1.5",
+    "update-electron-app": "^2.0.1"
   },
   "build": {
     "productName": "Genshin Impact Simulator",
